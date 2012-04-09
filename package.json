@@ -1,0 +1,13 @@
+{
+  "author": "Craig Condon <craig.j.condon@gmail.com>",
+  "name": "maprest.js",
+  "description": "Map objects to RESTful interfaces",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crcn/maprest.js.git"
+  },
+  "main": "./lib/node/index.js",
+  "dependencies": {},
+  "devDependencies": {}
+}
