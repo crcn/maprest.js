@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git://github.com/crcn/maprest.js.git"
   },
-  "main": "./lib/node/index.js",
+  "main": "./lib/index.js",
   "dependencies": {},
   "devDependencies": {}
 }
